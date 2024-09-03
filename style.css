@@ -1,0 +1,16 @@
+
+.containerflexivel {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    padding: 20px;
+    background-color: lightgrey;
+    
+}
+
+.box {
+    background-color: lightcoral;
+    padding: 20px;
+    width: 100px;
+    text-align: center;
+}
